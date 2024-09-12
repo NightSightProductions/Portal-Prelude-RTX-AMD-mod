@@ -1,0 +1,16 @@
+ Instructions:
+  1. Select your architecture
+  2. Drag and drop contents of dxvk-patch into .trex folder in Portal Prelude RTX bin
+  3. Drag and drop one of the rtx.conf presets into Portal Prelude RTX directory, make sure to replace existing rtx.conf
+
+ Warning: While in ALT + X dev menu, do not go to the remix graphics menu, this will revert some changes and reduce performance
+
+ If you need support, you can join our discord through the mod site
+
+  How to know your architecture:
+   RDNA 2: 6000 series, 600m series
+   RDNA 3: 7000 series, 700m series
+
+   *to fix dark areas, go to post processing in the dev menu and change eye adaptation from median to mean
+
+ We would love feedback for other GPUs
