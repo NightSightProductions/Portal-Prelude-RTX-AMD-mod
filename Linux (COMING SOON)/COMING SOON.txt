@@ -1,1 +1,0 @@
-Linux support is still being worked on
