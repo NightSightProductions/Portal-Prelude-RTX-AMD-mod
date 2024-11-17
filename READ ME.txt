@@ -1,9 +1,12 @@
  Instructions:
-  1. Select your architecture
-  2. Drag and drop contents of dxvk-patch into .trex folder in Portal Prelude RTX bin
-  3. Drag and drop one of the rtx.conf presets into Portal Prelude RTX directory, make sure to replace existing rtx.conf
+  1. Select your OS
+  2. Select your architecture
+  3. Drag and drop contents of dxvk-patch into .trex folder in Portal Prelude RTX bin
+  4. Drag and drop one of the rtx.conf presets into Portal Prelude RTX directory, make sure to replace existing rtx.conf
 
- Warning: While in ALT + X dev menu, do not go to the remix graphics menu, this will revert some changes and reduce performance
+FSR 3.1 can be toggled through ALT + X and changing upscaler to DLSS
+
+Warning: While in ALT + X dev menu, do not go to the remix graphics menu, this will revert some changes and reduce performance (Only if using TAA-U or NIS, Does not affect FSR)
 
  If you need support, you can join our discord through the mod site
 
@@ -14,3 +17,5 @@
    *to fix dark areas, go to post processing in the dev menu and change eye adaptation from median to mean
 
  We would love feedback for other GPUs
+
+Special thanks to the Optiscaler team for helping us get FSR 3.1 working, you can find their GitHub here: https://github.com/cdozdil/OptiScaler
